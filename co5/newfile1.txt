@@ -1,4 +1,0 @@
-
-1.python is an amazing programming language.
- 2.it is very easy to learn.
- 3.123456788import pandas as pd
