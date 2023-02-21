@@ -1,0 +1,10 @@
+Features of Python
+.Easy To Learn and Readable Language
+.Interpreted Language 
+.Dynamically Typed Language
+.Open Source And Free
+.Large Standard Library
+.High-Level Language
+.Object Oriented Programming Language
+.Large Community Support
+.Platform Independent
